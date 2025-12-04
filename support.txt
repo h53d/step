@@ -1,0 +1,18 @@
+Purpose:
+STEP file viewer is a lightweight 3D model tool, no registration, no uploads, no internet required. Everything works offline, locally, and privately.
+
+Key Features
+- Import popular 3D formats: STL, OBJ, 3MF, GLB, USDZ, TDS, AMF, PLY, PDC, XYZ, VOX, VTK, VTP, and FBX
+- Export to STL, OBJ, GLB, USDZ, and GLTF
+- Capture model screenshots for export or sharing
+- Basic editing tools: move, rotate, scale, delete, and undo changes to model objects
+- No ads. No tracking. No data collection. Just a clean, efficient tool built for professionals.
+
+Technical Specifications
+ - Requires iOS 16, macOS 12 or later.
+ - Optimized for high performance and resource efficiency.
+ - Works offline with no need for network access, ensuring complete data privacy.
+
+ - Contact
+ - Have questions or need support?
+ - Feel free to reach out to danjian42@gmail.com or on X.com: @aceway2024

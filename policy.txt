@@ -1,0 +1,37 @@
+Privacy Policy for STEP file viewer
+Effective Date: 2025-12-10
+
+STEP file viewer values your privacy. This privacy policy explains how your data is handled when you use our app. Spoiler: we don’t collect it. Here's what that really means.
+
+1. No Data Collection
+STEP file viewer does not collect, store, or transmit any personal data.
+Everything happens locally on your device. That means:
+
+ * No user accounts
+ * No analytics or tracking
+ * No cloud uploads
+ * No data sharing with us or others
+
+Your files, models, and exports stay on your device — unless you shared them to others.
+
+2. Offline Processing
+All features in STEP file viewer run entirely offline. We never upload your files to any server.
+
+3. Local Storage Only
+Your data is only saved:
+
+* Temporarily in memory and local device while using the app
+* We don’t have access to these files, and they’re never shared unless you do it yourself.
+
+4. No Third-Party SDKs
+We do not use advertising SDKs, analytics SDKs, or any third-party services. No tracking. No fingerprinting. No hidden surprises.
+
+5. Your Rights
+Since we don’t collect any data, there’s nothing for you to request, delete, or revoke.
+But if you have questions or concerns, we’re happy to answer them.
+
+6. Changes to the Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any significant changes by updating the effective date at the top of this policy. Continued use of STEP file viewer after any modifications signifies acceptance of these changes.
+
+7. Contact Information
+If you have any questions regarding this Privacy Policy or data management practices within STEP file viewer, please contact us at: danjian42@gmail.com.
